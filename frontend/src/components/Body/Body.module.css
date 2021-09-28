@@ -1,0 +1,26 @@
+.container {
+    width:90%;
+    height:auto;
+    padding:2rem;
+    margin:auto;
+}
+
+.container_upload {
+    width:50rem;
+    height: auto;
+    margin:auto;
+    align-items: center;
+}
+
+button{
+    width:20rem;
+    height:4rem;
+    border:none;
+    background-color:rgb(9, 119, 209);
+    border-radius: 0.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    color:#FFF;
+    letter-spacing: 0.5rem;
+}
+
